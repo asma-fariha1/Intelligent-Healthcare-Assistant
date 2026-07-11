@@ -144,6 +144,7 @@ This is an academic/portfolio project built to explore multimodal AI in healthca
 
 ## 📬 Let's Connect
 
-If you're a recruiter, hiring manager, or fellow builder and this caught your eye — I'd love to talk about the design decisions behind it, what I'd do differently at scale, or where I'm headed next.
+If you're a recruiter, hiring manager, or fellow developer and this project interests you, I'd be happy to discuss the ideas behind it, the design decisions I made, what I learned while building it, and how I plan to improve it in the future. I'd love to connect and hear your feedback.
+
 
 **Asma Fariha** — [GitHub](https://github.com/asma-fariha1)
